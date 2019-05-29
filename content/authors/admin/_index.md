@@ -21,7 +21,7 @@ organizations:
 bio: My research interests include deez nutz.
 
 interests:
-- Host-Pathogen co-evolution
+- Host-parasite coevolution
 - Drosophila genomics
 - Bioinformatics
 
