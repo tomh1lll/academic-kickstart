@@ -16,7 +16,7 @@ baseurl = "/"
 copyright = "Tom Hill &copy; {year}"
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = "Tom Hill spookygoogle"
+googleAnalytics = "Tom Hill spookygoogle.com tomhill.netlify.com"
 
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
