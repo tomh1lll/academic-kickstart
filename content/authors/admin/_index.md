@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include deez nutz.
 
 interests:
 - Host-Pathogen co-evolution
@@ -44,10 +44,10 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/tomh1lll
+  link: https://twitter.com/TomH1lll
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=WJPoC9AAAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/tomh1lll
@@ -67,6 +67,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a postdoctoral researcher at the University of Kansas in the Unckless lab, in the Department of Molecular Biosciences. I like to analyze data and test hypotheses concerning host-parasite co-evolution in Drosophila. I also like to play board/video games, think about game mechanics, the statistics of games and bioinformatics.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I graduated from the University of Reading in the United Kingdom with a BSc in Biological Sciences in 2012, and then from the Vienna Graduate School of Population Genetics with a PhD in Population Genomics in 2016. For my PhD in the Betancourt Lab, I studied the horizontal transfer and fitness costs of transposable elements in Drosophila. Since 2016 I have worked at the University of Kansas, studying co-evolution of Drosophila innubila and their associated DNA virus, DiNV. I also study the evolution of antimicrobial peptides and other immune effector molecules.
