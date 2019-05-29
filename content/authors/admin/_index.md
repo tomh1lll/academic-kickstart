@@ -53,9 +53,9 @@ social:
   link: https://github.com/tomh1lll
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-# - icon: cv
-#   icon_pack: ai
-#   link: files/TH_CV_201905.pdf
+ - icon: cv
+   icon_pack: ai
+   link: files/TH_CV_201905.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -67,6 +67,6 @@ user_groups:
 - Visitors
 ---
 
-I am a postdoctoral researcher at the University of Kansas in the Unckless lab, in the Department of Molecular Biosciences. I like to analyze data and test hypotheses concerning host-parasite co-evolution in *Drosophila*. I also like to play board/video games, think about game mechanics, the statistics of games and bioinformatics.
+I am a postdoctoral researcher at the University of Kansas in the Unckless lab, in the Department of Molecular Biosciences. I like to analyze data and test hypotheses concerning host-parasite co-evolution in Drosophila. I also like to play board/video games, think about game mechanics, the statistics of games and bioinformatics.
 
-I graduated from the University of Reading in the United Kingdom with a BSc in Biological Sciences in 2012, and then from the Vienna Graduate School of Population Genetics with a PhD in Population Genomics in 2016. For my PhD in the Betancourt Lab, I studied the horizontal transfer and fitness costs of transposable elements in *Drosophila*. Since 2016 I have worked at the University of Kansas, studying co-evolution of *Drosophila innubila* and their associated DNA virus, DiNV. I also study the evolution of antimicrobial peptides and other immune effector molecules.
+I graduated from the University of Reading in the United Kingdom with a BSc in Biological Sciences in 2012, and then from the Vienna Graduate School of Population Genetics with a PhD in Population Genomics in 2016. For my PhD in the Betancourt Lab, I studied the horizontal transfer and fitness costs of transposable elements in Drosophila. Since 2016 I have worked at the University of Kansas, studying co-evolution of Drosophila innubila and their associated DNA virus, DiNV. I also study the evolution of antimicrobial peptides and other immune effector molecules.
